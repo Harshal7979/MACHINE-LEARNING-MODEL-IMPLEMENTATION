@@ -1,4 +1,11 @@
 # MACHINE-LEARNING-MODEL-IMPLEMENTATION
+COMPANY- CODTECH IT SOLUTIONS 
+NAME-PRABHAT HARSHAL
+INTERN ID-CTO6DF1587
+DOMAIN-PHYTON PROGRAMMING 
+DURATION-6 WEEKS
+MENTOR-NEELA SANTOSH
+
 # 🧠 Machine Learning Text Classification using NLTK in Pytho
 
 This project presents a simple and effective implementation of a machine learning model for text classification using the Natural Language Toolkit (NLTK) in Python. It demonstrates how to preprocess text data, extract features, train classifiers, and evaluate model performance on a labeled dataset. This is ideal for beginners looking to understand how machine learning can be applied to natural language processing (NLP).
